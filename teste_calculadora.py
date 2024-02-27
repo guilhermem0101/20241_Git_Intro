@@ -8,4 +8,6 @@ def main():
     print(f'(a) - (b) = (subtrair)')
     produto = calculadora.multiplicar(a, b)
     print(f' (a) * (b) = (produto)')
+    quociente = calculadora.divisao(a, b)
+    print(f' (a) / (b) = (produto)')
 main()    
