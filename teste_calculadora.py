@@ -6,4 +6,6 @@ def main():
     print(f'(a) + (b) = (soma)')
     subtrair = calculadora.subtrair(a, b)
     print(f'(a) - (b) = (subtrair)')
+    produto = calculadora.multiplicar(a, b)
+    print(f' (a) * (b) = (produto)')
 main()    
