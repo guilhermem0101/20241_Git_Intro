@@ -35,3 +35,6 @@ def menu():
         elif opcao == '0':
             print("Saindo...")
             break
+
+
+menu()
